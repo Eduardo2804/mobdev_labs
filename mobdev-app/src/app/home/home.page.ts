@@ -15,7 +15,7 @@ export class HomePage {
      }
      
       updateMyValue2() {
-        this.myVariable = 'Now the force is more even stronger';
+        this.myVariable = 'Now the force is more even stronger!!!';
       
 }
 }
